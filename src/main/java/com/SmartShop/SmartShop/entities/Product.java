@@ -1,4 +1,4 @@
-package com.SmartShop.SmartShop.model;
+package com.SmartShop.SmartShop.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.SmartShop.SmartShop.model;
+package com.SmartShop.SmartShop.entities;
 
 import com.SmartShop.SmartShop.enums.CustomerTier;
 import jakarta.persistence.*;

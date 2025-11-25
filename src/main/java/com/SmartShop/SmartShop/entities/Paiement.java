@@ -1,4 +1,4 @@
-package com.SmartShop.SmartShop.model;
+package com.SmartShop.SmartShop.entities;
 
 import com.SmartShop.SmartShop.enums.PaymentStatus;
 import com.SmartShop.SmartShop.enums.PaymentType;
